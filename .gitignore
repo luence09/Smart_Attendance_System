@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+student_faces/
+Attendance.csv
+*.p
+*.jpg
+*.png
